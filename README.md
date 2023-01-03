@@ -1,5 +1,7 @@
 # Baby Walker - EECE5552
 
+![](https://github.com/LoveLennone/baby_walker/blob/main/pics/pic3.png)
+
 ## Developer First Time Setup
 
 1. Ensure 32-bit Raspbian Buster is installed on Raspberry Pi with Raspberry Pi Imager (https://www.raspberrypi.com/software/)
